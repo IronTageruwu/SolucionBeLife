@@ -1,0 +1,12 @@
+c:\users\gándara-pc\source\repos\SolucionBelife\Belife.Datos\bin\Debug\Belife.Datos.dll.config
+c:\users\gándara-pc\source\repos\SolucionBelife\Belife.Datos\bin\Debug\Belife.Datos.dll
+c:\users\gándara-pc\source\repos\SolucionBelife\Belife.Datos\bin\Debug\Belife.Datos.pdb
+c:\users\gándara-pc\source\repos\SolucionBelife\Belife.Datos\bin\Debug\EntityFramework.dll
+c:\users\gándara-pc\source\repos\SolucionBelife\Belife.Datos\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\gándara-pc\source\repos\SolucionBelife\Belife.Datos\bin\Debug\EntityFramework.xml
+c:\users\gándara-pc\source\repos\SolucionBelife\Belife.Datos\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\gándara-pc\source\repos\SolucionBelife\Belife.Datos\obj\Debug\Belife.Datos.csprojAssemblyReference.cache
+c:\users\gándara-pc\source\repos\SolucionBelife\Belife.Datos\obj\Debug\Belife.Datos.csproj.CoreCompileInputs.cache
+c:\users\gándara-pc\source\repos\SolucionBelife\Belife.Datos\obj\Debug\Belife.Datos.csproj.CopyComplete
+c:\users\gándara-pc\source\repos\SolucionBelife\Belife.Datos\obj\Debug\Belife.Datos.dll
+c:\users\gándara-pc\source\repos\SolucionBelife\Belife.Datos\obj\Debug\Belife.Datos.pdb

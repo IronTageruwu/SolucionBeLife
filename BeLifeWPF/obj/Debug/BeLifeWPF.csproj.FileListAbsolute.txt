@@ -1,0 +1,15 @@
+C:\Users\Gándara-PC\source\repos\SolucionBelife\BeLifeWPF\bin\Debug\BeLifeWPF.exe.config
+C:\Users\Gándara-PC\source\repos\SolucionBelife\BeLifeWPF\bin\Debug\BeLifeWPF.exe
+C:\Users\Gándara-PC\source\repos\SolucionBelife\BeLifeWPF\bin\Debug\BeLifeWPF.pdb
+C:\Users\Gándara-PC\source\repos\SolucionBelife\BeLifeWPF\obj\Debug\BeLifeWPF.csprojAssemblyReference.cache
+C:\Users\Gándara-PC\source\repos\SolucionBelife\BeLifeWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Gándara-PC\source\repos\SolucionBelife\BeLifeWPF\obj\Debug\App.g.cs
+C:\Users\Gándara-PC\source\repos\SolucionBelife\BeLifeWPF\obj\Debug\BeLifeWPF_MarkupCompile.cache
+C:\Users\Gándara-PC\source\repos\SolucionBelife\BeLifeWPF\obj\Debug\BeLifeWPF_MarkupCompile.lref
+C:\Users\Gándara-PC\source\repos\SolucionBelife\BeLifeWPF\obj\Debug\MainWindow.baml
+C:\Users\Gándara-PC\source\repos\SolucionBelife\BeLifeWPF\obj\Debug\BeLifeWPF.g.resources
+C:\Users\Gándara-PC\source\repos\SolucionBelife\BeLifeWPF\obj\Debug\BeLifeWPF.Properties.Resources.resources
+C:\Users\Gándara-PC\source\repos\SolucionBelife\BeLifeWPF\obj\Debug\BeLifeWPF.csproj.GenerateResource.cache
+C:\Users\Gándara-PC\source\repos\SolucionBelife\BeLifeWPF\obj\Debug\BeLifeWPF.csproj.CoreCompileInputs.cache
+C:\Users\Gándara-PC\source\repos\SolucionBelife\BeLifeWPF\obj\Debug\BeLifeWPF.exe
+C:\Users\Gándara-PC\source\repos\SolucionBelife\BeLifeWPF\obj\Debug\BeLifeWPF.pdb

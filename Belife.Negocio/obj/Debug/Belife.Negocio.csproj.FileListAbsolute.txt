@@ -1,0 +1,15 @@
+c:\users\gándara-pc\source\repos\SolucionBelife\Belife.Negocio\bin\Debug\Belife.Negocio.dll.config
+c:\users\gándara-pc\source\repos\SolucionBelife\Belife.Negocio\bin\Debug\Belife.Negocio.dll
+c:\users\gándara-pc\source\repos\SolucionBelife\Belife.Negocio\bin\Debug\Belife.Negocio.pdb
+c:\users\gándara-pc\source\repos\SolucionBelife\Belife.Negocio\bin\Debug\Belife.Datos.dll
+c:\users\gándara-pc\source\repos\SolucionBelife\Belife.Negocio\bin\Debug\EntityFramework.dll
+c:\users\gándara-pc\source\repos\SolucionBelife\Belife.Negocio\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\gándara-pc\source\repos\SolucionBelife\Belife.Negocio\bin\Debug\Belife.Datos.pdb
+c:\users\gándara-pc\source\repos\SolucionBelife\Belife.Negocio\bin\Debug\Belife.Datos.dll.config
+c:\users\gándara-pc\source\repos\SolucionBelife\Belife.Negocio\bin\Debug\EntityFramework.xml
+c:\users\gándara-pc\source\repos\SolucionBelife\Belife.Negocio\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\gándara-pc\source\repos\SolucionBelife\Belife.Negocio\obj\Debug\Belife.Negocio.csprojAssemblyReference.cache
+c:\users\gándara-pc\source\repos\SolucionBelife\Belife.Negocio\obj\Debug\Belife.Negocio.csproj.CoreCompileInputs.cache
+c:\users\gándara-pc\source\repos\SolucionBelife\Belife.Negocio\obj\Debug\Belife.Negocio.csproj.CopyComplete
+c:\users\gándara-pc\source\repos\SolucionBelife\Belife.Negocio\obj\Debug\Belife.Negocio.dll
+c:\users\gándara-pc\source\repos\SolucionBelife\Belife.Negocio\obj\Debug\Belife.Negocio.pdb
